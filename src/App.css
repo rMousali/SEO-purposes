@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+#mapid {
+  height: 700px;
+}
+
+#mapid > div {
+  height: 100%;
+}
